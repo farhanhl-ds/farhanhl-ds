@@ -3,20 +3,17 @@
 **Data Engineer · Data Scientist · MLOps Engineer**  
 📍 Bandung, Indonesia &nbsp;|&nbsp; 📬 farhanhamidlubis@gmail.com &nbsp;|&nbsp; 🌐 [farhanhl-ds.github.io](https://farhanhl-ds.github.io)
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-farhanhamidlubis-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/farhanhamidlubis)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail)](mailto:farhanhamidlubis@gmail.com)
- 
 ---
 
 ## 🔎 About Me
 
-I specialize in building **production-grade machine learning systems** — not just notebooks, but full platforms with proper infrastructure, APIs, and dashboards.
+I specialize in building **production-grade machine learning systems**, delivering end-to-end platforms with scalable infrastructure, APIs, and interactive dashboards.
 
 My work spans the full ML lifecycle:
-- **Data Engineering** — star schema design, ETL pipelines, real-time streaming
-- **Machine Learning** — classification, clustering, NLP (IndoBERT), time-series forecasting
-- **MLOps** — experiment tracking, model serving, containerized deployment
-- **Full-Stack** — FastAPI backends, Next.js dashboards, Docker Compose orchestration
+- **Data Engineering**: star schema design, ETL pipelines, real-time streaming
+- **Machine Learning**: classification, clustering, NLP (BERT), time-series forecasting
+- **MLOps**: experiment tracking, model serving, containerized deployment
+- **Full-Stack**: FastAPI backends, Next.js dashboards, Docker Compose orchestration
 
 ---
  
@@ -54,7 +51,7 @@ My work spans the full ML lifecycle:
 
 ## 🚀 Featured Projects
 
-### [StayWise — Hotel Data Platform](https://github.com/farhanhl)
+### [StayWise — Hotel Data Platform](https://github.com/farhanhl-ds)
 > End-to-end ML platform for hotel customer churn prediction & segmentation  
 > `Airflow` `MLflow` `FastAPI` `Next.js` `PostgreSQL` `Kafka` `Docker` `IndoBERT`
 
@@ -66,13 +63,13 @@ My work spans the full ML lifecycle:
 
 ---
 
-### [Amazon India Sales Analytics Pipeline](https://github.com/farhanhl/amazon-india-sales-analytics-p...)
+### [Amazon India Sales Analytics Pipeline](https://github.com/farhanhl-ds/amazon-india-sales-analytics-p...)
 > Production ETL pipeline with data quality validation and BI dashboard  
 > `Airflow` `PostgreSQL` `Elasticsearch` `Kibana` `Great Expectations`
 
 ---
 
-### [Earthquake Building Damage Predictor](https://github.com/farhanhl/earthquake-building-damage-pre...)
+### [Earthquake Building Damage Predictor](https://github.com/farhanhl-ds/earthquake-building-damage-pre...)
 > Multiclass classification for building damage grade prediction  
 > `Random Forest` `Scikit-learn` `Streamlit`
 
@@ -89,8 +86,8 @@ My work spans the full ML lifecycle:
 
 ## 📊 GitHub Stats
  
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanhl&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanhl&layout=compact&hide_border=true&theme=default)
+![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanhl-ds&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanhl-ds&layout=compact&hide_border=true&theme=default)
  
 ---
 
