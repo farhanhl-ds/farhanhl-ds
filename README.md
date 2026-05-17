@@ -1,10 +1,10 @@
 # Hi, I'm Farhan 👋
- 
+
 **Data Engineer · Data Scientist · MLOps Engineer**  
 📍 Bandung, Indonesia &nbsp;|&nbsp; 📬 farhanhamidlubis@gmail.com &nbsp;|&nbsp; 🌐 [farhanhl-ds.github.io](https://farhanhl-ds.github.io)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=farhanhl-ds&color=blue&style=flat)
- 
+
 ---
 
 ## 🔎 About Me
@@ -18,23 +18,23 @@ My work spans the full ML lifecycle:
 - **Full-Stack**: FastAPI backends, Next.js dashboards, Docker Compose orchestration
 
 ---
- 
+
 ## 🛠️ Tech Stack
- 
+
 **Data Engineering**  
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
- 
+
 **ML & MLOps**  
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
- 
+
 **Infrastructure & Backend**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -42,38 +42,44 @@ My work spans the full ML lifecycle:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
- 
+
 **Frontend & Languages**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
- 
+
 ---
 
 ## 🚀 Featured Projects
 
-### [StayWise — Hotel Data Platform](https://github.com/farhanhl-ds)
-> End-to-end ML platform for hotel customer churn prediction & segmentation  
-> `Airflow` `MLflow` `FastAPI` `Next.js` `PostgreSQL` `Kafka` `Docker` `IndoBERT`
+### [StayWise — Enterprise MLOps Platform](https://farhanhl-ds.github.io)
+> E-Commerce Churn Prediction & Retention Analytics  
+> `FastAPI` `Next.js` `Redis` `Airflow` `MLflow` `PostgreSQL` `Docker` `Kafka` `AWS S3`
 
-- Star schema data warehouse with 9 dimension/fact tables
-- Churn prediction model + K-Means customer segmentation
-- Real-time sentiment analysis (fine-tuned IndoBERT)
-- Streaming AI Analyst chatbot via SSE + Ollama (Gemma)
-- Full dashboard with choropleth maps, word clouds, 9 custom charts
-
----
-
-### [Amazon India Sales Analytics Pipeline](https://github.com/farhanhl-ds/amazon-india-sales-analytics-p...)
-> Production ETL pipeline with data quality validation and BI dashboard  
-> `Airflow` `PostgreSQL` `Elasticsearch` `Kibana` `Great Expectations`
+- Architected production-grade MLOps stack: PostgreSQL DW, Airflow, MLflow, Kafka, Redis; fully containerized with Docker Compose (VPS + local)
+- Built Airflow DAG pipeline for RFM feature engineering and churn labeling into PostgreSQL data warehouse (9+ tables, star schema)
+- Integrated MLflow for experiment tracking and model versioning
+- Built Next.js + FastAPI dashboard with choropleth maps for geospatial analysis
+- Developed AI-powered analytics chatbot via streaming SSE + Ollama, rendering structured LLM outputs as interactive visualizations
 
 ---
 
-### [Earthquake Building Damage Predictor](https://github.com/farhanhl-ds/earthquake-building-damage-pre...)
-> Multiclass classification for building damage grade prediction  
-> `Random Forest` `Scikit-learn` `Streamlit`
+### [E-Commerce Batch ETL Pipeline](https://github.com/farhanhl-ds/amazon-india-sales-analytics-p...)
+> Amazon India Sales — 128K+ Transactions  
+> `Airflow` `PostgreSQL` `Docker` `Great Expectations` `Elasticsearch` `Kibana`
+
+- End-to-end batch ETL pipeline with Airflow orchestration and Great Expectations data quality gates (schema drift, null violations)
+- Designed Kibana dashboard covering sales channel KPIs, regional demand monitoring, and product performance
+
+---
+
+### [Earthquake Building Damage Prediction](https://github.com/farhanhl-ds/earthquake-building-damage-pre...)
+> Deployed ML Service — 762K Records  
+> `Scikit-learn` `imbalanced-learn` `HuggingFace Spaces` `Streamlit`
+
+- Multiclass Random Forest pipeline on 762K building records from the 2015 Nepal earthquake; handled class imbalance and prevented data leakage
+- Deployed on HuggingFace Spaces supporting single and batch inference via CSV upload
 
 ---
 
@@ -87,6 +93,6 @@ My work spans the full ML lifecycle:
 ---
 
 ## 📬 Let's Connect
- 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/farhanhamidlubis)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:farhanhamidlubis@gmail.com)
