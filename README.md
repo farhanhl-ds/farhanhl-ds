@@ -2,6 +2,8 @@
  
 **Data Engineer · Data Scientist · MLOps Engineer**  
 📍 Bandung, Indonesia &nbsp;|&nbsp; 📬 farhanhamidlubis@gmail.com &nbsp;|&nbsp; 🌐 [farhanhl-ds.github.io](https://farhanhl-ds.github.io)
+
+![Profile Views](https://komarev.com/ghpvc/?username=farhanhl-ds&color=blue&style=flat)
  
 ---
 
@@ -82,13 +84,6 @@ My work spans the full ML lifecycle:
 - 🏆 Hacktiv8 Data Science & AI Bootcamp — Score **94.32%**
 - 🗣️ English: Professional Proficiency — IELTS **(7.0 · B2 CEFR)**
 
----
-
-## 📊 GitHub Stats
- 
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanhl-ds&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanhl-ds&layout=compact&hide_border=true&theme=default)
- 
 ---
 
 ## 📬 Let's Connect
