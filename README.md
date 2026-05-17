@@ -65,7 +65,7 @@ My work spans the full ML lifecycle:
 
 ---
 
-### [E-Commerce Batch ETL Pipeline](https://github.com/farhanhl-ds/amazon-india-sales-analytics-p...)
+### [E-Commerce Batch ETL Pipeline](https://github.com/farhanhl-ds/amazon-india-sales-analytics-pipeline)
 > Amazon India Sales — 128K+ Transactions  
 > `Airflow` `PostgreSQL` `Docker` `Great Expectations` `Elasticsearch` `Kibana`
 
@@ -74,7 +74,7 @@ My work spans the full ML lifecycle:
 
 ---
 
-### [Earthquake Building Damage Prediction](https://github.com/farhanhl-ds/earthquake-building-damage-pre...)
+### [Earthquake Building Damage Prediction](https://github.com/farhanhl-ds/earthquake-building-damage-predictor)
 > Deployed ML Service — 762K Records  
 > `Scikit-learn` `imbalanced-learn` `HuggingFace Spaces` `Streamlit`
 
