@@ -7,7 +7,7 @@
 
 ---
 
-## 🔎 About Me
+## About Me
 
 I specialize in building **production-grade machine learning systems**, delivering end-to-end platforms with scalable infrastructure, APIs, and interactive dashboards.
 
@@ -19,7 +19,7 @@ My work spans the full ML lifecycle:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Data Engineering**
  
@@ -55,7 +55,7 @@ My work spans the full ML lifecycle:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [StayWise — Enterprise MLOps Platform](https://farhanhl-ds.github.io)
 > E-Commerce Churn Prediction & Retention Analytics  
@@ -87,7 +87,7 @@ My work spans the full ML lifecycle:
 
 ---
 
-## 🎓 Education
+## Education
 
 - 🎓 M.Eng. Geophysical Engineering — ITB **(GPA 3.64 / 4.00)**
 - 🎓 B.Sc. Geophysics — UNPAD **(GPA 3.54 / 4.00)**
@@ -96,7 +96,7 @@ My work spans the full ML lifecycle:
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/farhanhamidlubis)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:farhanhamidlubis@gmail.com)
