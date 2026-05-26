@@ -1,7 +1,7 @@
 # Hi, I'm Farhan 👋
 
 **Data Engineer · Data Scientist · MLOps Engineer**  
-📍 Bandung, Indonesia &nbsp;|&nbsp; 📬 farhanhamidlubis@gmail.com &nbsp;|&nbsp; 🌐 [farhanhl-ds.github.io](https://farhanhl-ds.github.io)
+📍 Bandung, Indonesia &nbsp;|&nbsp; 📬 farhanhamidlubis@gmail.com &nbsp;|&nbsp; 🌐 [farhanhl-ds.vercel.app](https://farhanhl-ds.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=farhanhl-ds&color=blue&style=flat)
 
