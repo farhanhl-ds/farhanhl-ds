@@ -57,7 +57,7 @@ My work spans the full ML lifecycle:
 
 ## Featured Projects
 
-### [StayWise — Enterprise MLOps Platform](https://farhanhl-ds.github.io)
+### [StayWise — Enterprise MLOps Platform](https://github.com/farhanhl-ds/staywise-ml-churn-platform)
 > E-Commerce Churn Prediction & Retention Analytics  
 > `FastAPI` `Next.js` `Redis` `Airflow` `MLflow` `PostgreSQL` `Docker` `Kafka` `AWS S3`
 
